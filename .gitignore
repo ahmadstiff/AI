@@ -1,0 +1,7 @@
+*.gr
+.vscode/
+__pycache__/
+*.co
+*.xlsx
+
+mainThread.py
